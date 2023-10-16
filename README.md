@@ -1,3 +1,3 @@
 # august.
 
-this is my first reepository.
+# Here is my first repo
